@@ -1,0 +1,349 @@
+---
+title: "Dorcas Kareithi's Resume"
+author: Dorcas Kareithi
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> njerikareithi@gmail.com
+- <i class="fa fa-github"></i> [github.com/DeeKareithi](https://github.com/DeeKareithi)
+- <i class="fa fa-linkedin"></i> [linkedin.com/dorcaskareithi](https://ke.linkedin.com/in/dorcaskareithi)
+- <i class="fa fa-phone"></i> +250 782634140
+- <i class="fa fa-skype"></i> skype: njeri.kareithi
+
+- Available on email and phone.
+
+
+Technical Skills {#skills}
+--------------------------------------------------------------------------------
+
+- **Analysis**: R, Stata, Python,
+- **Data Collection**: ODK, Commcare, SurveyCTO, KoboToolbox, EpiData
+- **Data Mining** using APIs and R
+- **Data Management**: SQL
+- **Data Visualization**: R, Excel, PowerBI, Tableu
+- **Mapping**: QGIS
+- **Publication**: Latex, R (R Markdown)
+- **Training in R**: Basics and advanced
+
+
+
+Main
+================================================================================
+
+Dorcas Kareithi {#title}
+--------------------------------------------------------------------------------
+
+### Experienced Statistical Analyst
+
+I am quantitatively qurious and passionate about Digital Health and Patient Centered Healthcare. I devote myself to advancing fields of statistical computing. I have over 5 years experience as a statistical analyst in various capacities.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Nairobi
+
+Msc Biometry/Biostatistics
+
+Nairobi, Kenya
+
+2016
+
+Thesis: An algorithm for data reconstruction using published articles; an application on insect life tables
+
+### Kabarak University
+
+Bsc Economics and Statistics
+
+Nakuru, Kenya
+
+2013
+
+
+
+Relevant Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Study Design and Analysis Lead
+
+Cocreation Hub Design Lab
+
+Kigali, Rwanda
+
+2019 - current
+
+- Developing cluster analysis threshold models for a tool that will be used for disease surveillance.
+- Conducted statistical analyses for Rwanda Biomedical Centre's NCD mass campaign evaluation.
+- Training fellows and Staff on Basics of Research 
+
+**Main software used**: Stata, NVivo, R, SaTScan
+
+### Epidemiological consultant
+
+Sight Savers International
+
+Remotely
+
+2018 
+
+- Analyzed and cleaned multi-part quantitative panel datasets (individual level and cluster level data)
+- Data management and analysis to evaluate health interventions aimed at addressing the objectives of each study and impact evaluation of the interventions.
+- Wrote reoprts for studies supported
+
+**Main software used**: Stata
+
+### Senior Research Analyst
+
+Evidence Action
+
+Nairobi, Kenya
+
+2017
+
+
+- Developed analysis plans for the projects I supported 
+- Developed and programming survey tools in ODK and Commcare
+- Performed quality checks and analyses on data collected
+- Developed scripts for regular data management and analysis in Stata
+- Trained department staff on introduction to R
+
+**Main software used**: Stata, R
+ 
+
+### Research Analyst
+
+Evidence Action
+
+Nairobi, Kenya
+
+2016
+
+- Developing analysis plans for the projects I supported 
+- Performed quality checks and analyses on longitudinal data on deworming, with an aim to evaluate a WASH intervention 
+- Performed analyses on adoption of WASH interventions and factors affecting adoption
+- Composed reports ranging from Pre‐Analysis Plans to Analytical Results / Write‐ups 
+
+**Main software used**: Stata 
+
+::: aside
+### Programing Languages
+
+- R
+- Stata
+- Python
+
+
+:::  
+ 
+### Msc DRIP Research Scholar
+
+International Centre for Insect Physiology and Ecology (ICIPE)
+
+Nairobi, Kenya
+
+2015
+
+- Conducted research for my masters degree and developed the algorithm in R
+- Supported investigators and students with data/statistical analysis
+- Completed statistical analyses as requested to support the biostatistics department
+- Participation in analysis and writing of manuscripts for publication for other PhD and Msc students
+
+**Main software used**: R 
+
+::: aside
+### Proffesional Memberships
+
+- International Biometric Society (IBS), **Member no 1308334**
+- 
+- Organization for women in science for the developing world,  **Member no: 7629**
+
+
+
+
+::: 
+
+
+Relevant Trainings and Workshops {data-icon=book data-concise=true}
+--------------------------------------------------------------------------------
+### Measuring Health Outcomes in Field Surveys
+
+N/A
+
+edX
+
+2019
+
+::: aside
+### Other Skills
+
+- Study Design
+- Sampling design 
+- Theory of Change
+- Developing protocols and SOPs 
+- People Management
+
+
+:::  
+
+### Bio-statistical Models for Joint Longitudinal and Survival Data in Research: Theory and Applications in R Software
+
+N/A
+
+University of Nairobi
+
+2018
+
+### Analyzing and Visualizing Data with Power BI 
+
+N/A
+
+edX
+
+2018
+
+### CommCare for Data Collection and Management by Dimagi
+
+N/A
+
+Evidence Action
+
+2018 
+
+### Protecting Human Research Participants
+
+N/A
+
+NIH Office of Extramural Research
+
+2017 
+
+### ODK for Data Collection: Designing Surveys 
+
+N/A
+
+Evidence Action
+
+2017
+
+### Introduction to GIS and Remote Sensing 
+
+N/A
+
+ICIPE
+
+2015 
+
+### Statistical Methods for Arthropods
+
+N/A
+
+ICIPE
+
+2015 
+
+
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Language for Beginners.
+
+Instructor of Basic Data Analysis in R.
+
+Kigali, Rwanda
+
+
+### Using R for Data Visualization.
+
+Instructor of using R for Data Visualization.
+
+Kigali, Rwanda
+
+
+
+Selected Publications and Supported Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### An algorithm for data reconstruction from published articles – Application on insect life tables.
+
+Cogent Mathematics & Statistics , 6:1, DOI: 10.1080/25742558.2019.1701377  
+
+
+N/A
+
+2019
+
+**D.N. Kareithi**, D. Salifu, N. Owuor, S. Subramanian & E.Z.H. Tonnang | Yuriy Rogovchenko (Reviewing editor)
+
+
+### Resolving  the  taxonomic  status  of  Frankliniella  schultzei  (Thysanoptera:  Thripidae) colour forms in Kenya – a morphological‐, biological‐, molecular‐ and ecological‐based approach.
+
+International   Journal   of   Tropical   Insect   Science, 37(2),   57‐70
+
+N/A
+
+2017 
+
+Gikonyo, M., Niassy, S., Moritz, G., Khamis, F., Magiri, E., & Subramanian, S.
+
+### Effect of organic and conventional farming systems on nitrogen use efficiency of potato, maize and vegetables in the Central highlands of Kenya.
+
+Eur. J. Agron. 86, 24–30
+
+N/A
+
+2017 
+
+Musyoka, M.W., Adamtey, N., Muriuki, A.W., Cadisch, G
+
+
+Referees {data-icon=phone}
+--------------------------------------------------------------------------------
+
+::: aside
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+:::
+
+### Ms EMMA JOLLEY
+
+- Global Technical Lead: Health & Disability Research
+- Sight Savers International
+- One Boston Place, Suite 2600, Boston, MA 02108.
+- United Kingdom
+- <i class="fa fa-envelope"></i> ejolley@sightsavers.org
+- **Relationship: Former Supervisor** 
+
+
+N/A
+
+### DR NELSON OWUOR
+
+- Senior Biostatistics, Lecturer School Of Mathematics, 
+- CBPS, University of Nairobi
+- Box 30197-00100 
+- Nairobi, Kenya
+- <i class="fa fa-envelope"></i> onyango@uonbi.ac.ke
+- <i class="fa fa-phone"></i> +254704315332
+- **Relationship: Msc University Supervisor** 
+
+N/A
+
+
